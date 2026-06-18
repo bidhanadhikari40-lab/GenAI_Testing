@@ -1,1 +1,0 @@
-"This is a test file for 2nd branch of GenAI Testing project."
